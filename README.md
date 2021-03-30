@@ -9,9 +9,9 @@ The data set that was used was concerning fuel consumption in miles per gallon a
 ## Main Libraries
 The main libraries used for this project were numpy, pandas, matplotlib, seaborn, and sklearn.
 
-##Data Science Topics Covered
-*Data Collection
-*Exploratory Data Analysis
-*Data Preperation
-*Model Selection and Training
-*Cross-Validation and Hyperparamater Tuning
+## Data Science Topics Covered
+* Data Collection
+* Exploratory Data Analysis
+* Data Preperation
+* Model Selection and Training
+* Cross-Validation and Hyperparamater Tuning
